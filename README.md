@@ -42,19 +42,14 @@ Run
 Copy code
 java -cp "lib/*:src" com.Main
 Dependencies
-ZXing (Zebra Crossing): For QR code generation.
 Java AWT and Swing: For GUI components.
 Usage
 Launch the application.
 Enter the desired angles (θ and φ) in the input fields.
 Click the "Generate" button to visualize the state on the Bloch Sphere.
-Use the "File" menu to save the generated QR code as a PNG file.
+
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-Special thanks to the contributors of the ZXing library for their work on QR code generation.
-Inspired by quantum mechanics and the Bloch Sphere representation of qubit states.
